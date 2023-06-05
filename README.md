@@ -1,2 +1,2 @@
 # touchdesigner_tox
-Library of custom Touchdesigner Toxes
+Library of custom Touchdesigner tools
